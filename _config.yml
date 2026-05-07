@@ -46,6 +46,8 @@ projects:
   # website: http://your_website_url
   # youtube: your_username
 
+repository: Codingpanda2/codingpanda2.github.io
+
 topics:
   - name: CSS
     web_url: https://github.com/topics/css
